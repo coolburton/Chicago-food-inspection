@@ -1,0 +1,54 @@
+.container{
+    align-items: center;
+  }
+    
+.col-sm-6{
+    height: 215px;
+}
+
+#pie{
+    margin-left: 50px;
+}
+
+#buttons {
+  padding: 10px
+}
+
+#filter-btn {
+  padding: 10px
+}
+
+#reset-btn {
+  padding: 10px
+}
+
+.row {
+  margin-left: 60px;
+}
+
+.header {
+  margin-left: 45px;
+}
+
+.card {
+  margin-left: 18px;
+  border-bottom: 0px;
+}
+
+#inspection-details {
+  margin-left: 15px;
+  background-color: white;
+  margin-bottom: 0em;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card-text {
+  text-align: center;
+  padding-top: 20px;
+}
+.form-group {
+  padding-top: 20px;
+}

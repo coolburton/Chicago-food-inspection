@@ -1,0 +1,67 @@
+#firstrow {
+    padding-top: 60px;
+}
+
+#navbarDropdownMenuLink {
+    margin-right: 70px;
+}
+
+#violation_table {
+  padding-top: 60px;
+}
+
+td {
+  font-size: 12px;
+}
+
+body {
+  background-image: url("https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/bb/cbbf754b-a6f0-514f-ae8f-ae40362e741f/5a8db77814ba4.image.jpg");
+  background-color: rgba(238, 238, 238, 0.87) !important;
+  background-blend-mode: color;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-bottom:250px;
+}
+
+#topbanner {
+  border-radius: 90px 7px 7px 90px;
+  background-image: url("https://lh3.googleusercontent.com/proxy/kmoo8i_2QgMiqHgnnGEtVxZ22A-mPOZaxvEFPS0iHwrLjhLOR0YKohb0GBwC6xaiPnqmVd21VdHCRmmRt1IUbKDwR0VDM3cMR5nfAhxlSAdIvF-rAwTDESgQWoI3HjajgUVp2SbBTNHELj1Kh83imJE5yifj9T64rWR6f8PWZYiA06NGhB7oXjx_");
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: bottom;
+  font-variant: small-caps;
+}
+
+.jumbotron {
+  border-radius: 7px;
+}
+
+.navbar {
+  border-radius: 7px;
+  background-color: lightslategray;
+}
+
+.lead {
+  font-size: 18px;
+  font-weight: 400;
+  text-shadow: 2px 2px white;
+}
+
+#firstrowhomepage {
+  padding-top: 60px;
+}
+
+#buttons {
+  padding-top: 20px;
+}
+
+#footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /* background-color: red; */
+  color: black;
+  text-align: center;
+  margin-top:20px
+}
